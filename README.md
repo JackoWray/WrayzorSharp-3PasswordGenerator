@@ -16,6 +16,6 @@ The functionality of prompts and confirms make it easier for both the coder and 
 
 > To access this application's GitHub repository, please click on the following link:
 
-> [WrayzorSharp-3 Password Generator Repo](https://jackowray.github.io/WrayzorSharp-3PasswordGenerator/)
+> [WrayzorSharp-3 Password Generator Repo](https://github.com/JackoWray/WrayzorSharp-3PasswordGenerator)
 
 Enjoy! 😄
